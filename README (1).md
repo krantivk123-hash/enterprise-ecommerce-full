@@ -20,4 +20,4 @@ mvn spring-boot:run
 ```
 
 ## 👨‍💻 Author
-Nitin Chavan
+Kranti Kadam
